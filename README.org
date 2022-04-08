@@ -1,2 +1,4 @@
 * read-and-learn
 learn by reading from articles and posts
+
+** [[file:hacker-news.org][hackernews]]  
