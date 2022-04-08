@@ -2,205 +2,205 @@
 All the saved articles from materialistic hacker news client
 
 - A fast Lua based Neovim configuration that uses coc.nvim for intellisense
-  *link:* https://github.com/albingroen/quick.nvim
-  *post-link:* https://news.ycombinator.com/item?id=29095157
+  - *link:* https://github.com/albingroen/quick.nvim
+  - *post-link:* https://news.ycombinator.com/item?id=29095157
 
 - How to Build a Plugin-Free Nvim Config
-  *link:* https://elsewebdevelopment.com/neovim-explained-how-to-build-a-plugin-free-nvim-config-that-unlocks-builtin-features/
-  *post-link:* https://news.ycombinator.com/item?id=30036830
+  - *link:* https://elsewebdevelopment.com/neovim-explained-how-to-build-a-plugin-free-nvim-config-that-unlocks-builtin-features/
+  - *post-link:* https://news.ycombinator.com/item?id=30036830
 
 - Helix – a kakoune / Neovim inspired editor, written in Rust
-  *link:* https://github.com/helix-editor/helix
-  *post-link:* https://news.ycombinator.com/item?id=30383734
+  - *link:* https://github.com/helix-editor/helix
+  - *post-link:* https://news.ycombinator.com/item?id=30383734
 
 - Turning Neovim into a Full-Fledged Code Editor with Lua
-  *link:* https://mattermost.com/blog/turning-neovim-into-a-full-fledged-code-editor-with-lua/
-  *post-link:* https://news.ycombinator.com/item?id=30458577
+  - *link:* https://mattermost.com/blog/turning-neovim-into-a-full-fledged-code-editor-with-lua/
+  - *post-link:* https://news.ycombinator.com/item?id=30458577
 
 - No_color
-  *link:* https://no-color.org/
-  *post-link:* https://news.ycombinator.com/item?id=30483417
+  - *link:* https://no-color.org/
+  - *post-link:* https://news.ycombinator.com/item?id=30483417
 
 - Simplicity of IRC
-  *link:* https://susam.net/maze/simplicity-of-irc.html
-  *post-link:* https://news.ycombinator.com/item?id=29862550
+  - *link:* https://susam.net/maze/simplicity-of-irc.html
+  - *post-link:* https://news.ycombinator.com/item?id=29862550
 
 - Books that changed my career as a software engineer
-  *link:* https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/
-  *post-link:* https://news.ycombinator.com/item?id=29364892
+  - *link:* https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/
+  - *post-link:* https://news.ycombinator.com/item?id=29364892
 
 - Spotify is killing the open podcast ecosystem (2020)
-  *link:* https://singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem/
-  *post-link:* https://news.ycombinator.com/item?id=26872229
+  - *link:* https://singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem/
+  - *post-link:* https://news.ycombinator.com/item?id=26872229
 
 - Intro to React Server Side Rendering
-  *link:* https://medium.com/javascript-in-plain-english/intro-to-react-server-side-rendering-3c2af3782d08
-  *post-link:* https://news.ycombinator.com/item?id=25741650
+  - *link:* https://medium.com/javascript-in-plain-english/intro-to-react-server-side-rendering-3c2af3782d08
+  - *post-link:* https://news.ycombinator.com/item?id=25741650
 
 - A half-hour to learn Rust
-  *link:* https://fasterthanli.me/articles/a-half-hour-to-learn-rust
-  *post-link:* https://news.ycombinator.com/item?id=25610741
+  - *link:* https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+  - *post-link:* https://news.ycombinator.com/item?id=25610741
 
 - Lessons for Early Stage Founders
-  *link:* https://calv.info/early-stage-lessons
-  *post-link:* https://news.ycombinator.com/item?id=25321667
+  - *link:* https://calv.info/early-stage-lessons
+  - *post-link:* https://news.ycombinator.com/item?id=25321667
 
 - Bongo Cat
-  *link:* https://bongo.cat
-  *post-link:* https://news.ycombinator.com/item?id=24866896
+  - *link:* https://bongo.cat
+  - *post-link:* https://news.ycombinator.com/item?id=24866896
 
 - Neovim and Rust
-  *link:* https://sharksforarms.dev/posts/neovim-rust/
-  *post-link:* https://news.ycombinator.com/item?id=24567481
+  - *link:* https://sharksforarms.dev/posts/neovim-rust/
+  - *post-link:* https://news.ycombinator.com/item?id=24567481
 
 - How I remember what I learn
-  *link:* https://vasilishynkarenka.com/learning/
-  *post-link:* https://news.ycombinator.com/item?id=24700647
+  - *link:* https://vasilishynkarenka.com/learning/
+  - *post-link:* https://news.ycombinator.com/item?id=24700647
 
 - Written communication is remote work super power
-  *link:* https://snir.dev/blog/remote-async-communication/
-  *post-link:* https://news.ycombinator.com/item?id=23577228
+  - *link:* https://snir.dev/blog/remote-async-communication/
+  - *post-link:* https://news.ycombinator.com/item?id=23577228
 
 - Workstream: A super fast virtual computer you can use for anything
-  *link:* https://workstream.paperspace.com/
-  *post-link:* https://news.ycombinator.com/item?id=22890016
+  - *link:* https://workstream.paperspace.com/
+  - *post-link:* https://news.ycombinator.com/item?id=22890016
 
 - How to Resolve a Conflict When Both Sides Are Right
-  *link:* https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f
-  *post-link:* https://news.ycombinator.com/item?id=22746830
+  - *link:* https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f
+  - *post-link:* https://news.ycombinator.com/item?id=22746830
 
 - Show HN: An eBook with hundreds of GNU Awk one-liners
-  *link:* https://news.ycombinator.com/item?id=22758217
-  *post-link:* https://news.ycombinator.com/item?id=22758217
+  - *link:* https://news.ycombinator.com/item?id=22758217
+  - *post-link:* https://news.ycombinator.com/item?id=22758217
 
 - 'Call of Duty' wins First Amendment victory over use of Humvees
-  *link:* https://www.hollywoodreporter.com/thr-esq/call-duty-wins-first-amendment-victory-use-humvees-1287882
-  *post-link:* https://news.ycombinator.com/item?id=22762394
+  - *link:* https://www.hollywoodreporter.com/thr-esq/call-duty-wins-first-amendment-victory-use-humvees-1287882
+  - *post-link:* https://news.ycombinator.com/item?id=22762394
 
 - Mycroft – An open-source voice assistant
-  *link:* https://mycroft.ai/
-  *post-link:* https://news.ycombinator.com/item?id=22702195
+  - *link:* https://mycroft.ai/
+  - *post-link:* https://news.ycombinator.com/item?id=22702195
 
 - Coding Stories: Coding on the C64
-  *link:* https://martinrue.com/give-yourself-more-playtime/
-  *post-link:* https://news.ycombinator.com/item?id=22717819
+  - *link:* https://martinrue.com/give-yourself-more-playtime/
+  - *post-link:* https://news.ycombinator.com/item?id=22717819
 
 - Show HN: Search code in GitHub repos using regular expressions
-  *link:* https://grep.app
-  *post-link:* https://news.ycombinator.com/item?id=22396824
+  - *link:* https://grep.app
+  - *post-link:* https://news.ycombinator.com/item?id=22396824
 
 - The Zen of Go
-  *link:* https://dave.cheney.net/2020/02/23/the-zen-of-go
-  *post-link:* https://news.ycombinator.com/item?id=22396405
+  - *link:* https://dave.cheney.net/2020/02/23/the-zen-of-go
+  - *post-link:* https://news.ycombinator.com/item?id=22396405
 
 - How to write the perfect pull request (2015)
-  *link:* https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/
-  *post-link:* https://news.ycombinator.com/item?id=22362226
+  - *link:* https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/
+  - *post-link:* https://news.ycombinator.com/item?id=22362226
 
 - Becoming a high performing software developer working from your bedroom
-  *link:* https://zephony.com/remote-software-developer-productivity
-  *post-link:* https://news.ycombinator.com/item?id=22306337
+  - *link:* https://zephony.com/remote-software-developer-productivity
+  - *post-link:* https://news.ycombinator.com/item?id=22306337
 
 - Will Spotify Ruin Podcasting?
-  *link:* https://mattstoller.substack.com/p/will-spotify-ruin-podcasting
-  *post-link:* https://news.ycombinator.com/item?id=22285569
+  - *link:* https://mattstoller.substack.com/p/will-spotify-ruin-podcasting
+  - *post-link:* https://news.ycombinator.com/item?id=22285569
 
 - Linux 5.6 is the most exciting kernel in years
-  *link:* https://www.phoronix.com/scan.php?page=article&item=linux-56-features&num=1
-  *post-link:* https://news.ycombinator.com/item?id=22284232
+  - *link:* https://www.phoronix.com/scan.php?page=article&item=linux-56-features&num=1
+  - *post-link:* https://news.ycombinator.com/item?id=22284232
 
 - My Second Year as a Solo Developer
-  *link:* https://mtlynch.io/solo-developer-year-2/
-  *post-link:* https://news.ycombinator.com/item?id=22201337
+  - *link:* https://mtlynch.io/solo-developer-year-2/
+  - *post-link:* https://news.ycombinator.com/item?id=22201337
 
 - Why are some things darker when wet?
-  *link:* https://aryankashyap.com/why-are-some-things-darker-when-wet
-  *post-link:* https://news.ycombinator.com/item?id=22001529
+  - *link:* https://aryankashyap.com/why-are-some-things-darker-when-wet
+  - *post-link:* https://news.ycombinator.com/item?id=22001529
 
 - Which Emoji Scissors Close?
-  *link:* https://wh0.github.io/2020/01/02/scissors.html
-  *post-link:* https://news.ycombinator.com/item?id=21942358
+  - *link:* https://wh0.github.io/2020/01/02/scissors.html
+  - *post-link:* https://news.ycombinator.com/item?id=21942358
 
 - Scaling React Server Side Rendering
-  *link:* https://arkwright.github.io/scaling-react-server-side-rendering.html
-  *post-link:* https://news.ycombinator.com/item?id=21890370
+  - *link:* https://arkwright.github.io/scaling-react-server-side-rendering.html
+  - *post-link:* https://news.ycombinator.com/item?id=21890370
 
 - Is true hacking dead? What we lost
-  *link:* http://c0de517e.blogspot.com/2019/12/is-true-hacking-dead-what-we-lost.html
-  *post-link:* https://news.ycombinator.com/item?id=21680011
+  - *link:* http://c0de517e.blogspot.com/2019/12/is-true-hacking-dead-what-we-lost.html
+  - *post-link:* https://news.ycombinator.com/item?id=21680011
 
 - Firefox Replay
-  *link:* https://firefox-replay.com/
-  *post-link:* https://news.ycombinator.com/item?id=21655958
+  - *link:* https://firefox-replay.com/
+  - *post-link:* https://news.ycombinator.com/item?id=21655958
 
 - Bash-lib: Library for bash utility methods and tools
-  *link:* https://github.com/cyberark/bash-lib
-  *post-link:* https://news.ycombinator.com/item?id=21497656
+  - *link:* https://github.com/cyberark/bash-lib
+  - *post-link:* https://news.ycombinator.com/item?id=21497656
 
 - Async-await on stable Rust
-  *link:* https://blog.rust-lang.org/2019/11/07/Async-await-stable.html
-  *post-link:* https://news.ycombinator.com/item?id=21473259
+  - *link:* https://blog.rust-lang.org/2019/11/07/Async-await-stable.html
+  - *post-link:* https://news.ycombinator.com/item?id=21473259
 
 - Extract voice, piano, drums, etc. from any music track
-  *link:* https://github.com/deezer/spleeter
-  *post-link:* https://news.ycombinator.com/item?id=21431071
+  - *link:* https://github.com/deezer/spleeter
+  - *post-link:* https://news.ycombinator.com/item?id=21431071
 
 - Lesser Known Coding Fonts
-  *link:* https://vfoley.xyz/lesser-known-coding-fonts/
-  *post-link:* https://news.ycombinator.com/item?id=21302498
+  - *link:* https://vfoley.xyz/lesser-known-coding-fonts/
+  - *post-link:* https://news.ycombinator.com/item?id=21302498
 
 - Why Switzerland is better than Silicon Valley for Software Developers
-  *link:* https://swissdevjobs.ch/blog/switzerland-vs-silicon-valley
-  *post-link:* https://news.ycombinator.com/item?id=21258345
+  - *link:* https://swissdevjobs.ch/blog/switzerland-vs-silicon-valley
+  - *post-link:* https://news.ycombinator.com/item?id=21258345
 
 - Tmux Tutorial
-  *link:* https://leimao.github.io/blog/Tmux-Tutorial/
-  *post-link:* https://news.ycombinator.com/item?id=21055468
+  - *link:* https://leimao.github.io/blog/Tmux-Tutorial/
+  - *post-link:* https://news.ycombinator.com/item?id=21055468
 
 - Apple’s New Mac Pro to Be Made in Texas
-  *link:* https://www.apple.com/newsroom/2019/09/apples-new-mac-pro-to-be-made-in-texas/
-  *post-link:* https://news.ycombinator.com/item?id=21050149
+  - *link:* https://www.apple.com/newsroom/2019/09/apples-new-mac-pro-to-be-made-in-texas/
+  - *post-link:* https://news.ycombinator.com/item?id=21050149
 
 - A Gentle introduction to Kubernetes with more than just the basics
-  *link:* https://github.com/eon01/kubernetes-workshop
-  *post-link:* https://news.ycombinator.com/item?id=21021184
+  - *link:* https://github.com/eon01/kubernetes-workshop
+  - *post-link:* https://news.ycombinator.com/item?id=21021184
 
 - Books on Burnout
-  *link:* https://fivebooks.com/best-books/burnout-work-exhaustion-josh-cohen/
-  *post-link:* https://news.ycombinator.com/item?id=21014257
+  - *link:* https://fivebooks.com/best-books/burnout-work-exhaustion-josh-cohen/
+  - *post-link:* https://news.ycombinator.com/item?id=21014257
 
 - Working with GitHub Actions
-  *link:* https://jeffrafter.com/working-with-github-actions/
-  *post-link:* https://news.ycombinator.com/item?id=21020106
+  - *link:* https://jeffrafter.com/working-with-github-actions/
+  - *post-link:* https://news.ycombinator.com/item?id=21020106
 
 - Maker's Schedule, Manager's Schedule (2009)
-  *link:* http://www.paulgraham.com/makersschedule.html
-  *post-link:* https://news.ycombinator.com/item?id=20990635
+  - *link:* http://www.paulgraham.com/makersschedule.html
+  - *post-link:* https://news.ycombinator.com/item?id=20990635
 
 - Why Go and Not Rust?
-  *link:* https://kristoff.it/blog/why-go-and-not-rust/
-  *post-link:* https://news.ycombinator.com/item?id=20983922
+  - *link:* https://kristoff.it/blog/why-go-and-not-rust/
+  - *post-link:* https://news.ycombinator.com/item?id=20983922
 
 - Google to pay $1B in France to settle fiscal fraud probe
-  *link:* https://www.reuters.com/article/us-france-tech-google-tax/google-agrees-to-550-million-fine-in-france-to-settle-fiscal-fraud-probe-idUSKCN1VX1SM
-  *post-link:* https://news.ycombinator.com/item?id=20960925
+  - *link:* https://www.reuters.com/article/us-france-tech-google-tax/google-agrees-to-550-million-fine-in-france-to-settle-fiscal-fraud-probe-idUSKCN1VX1SM
+  - *post-link:* https://news.ycombinator.com/item?id=20960925
 
 - How to do a code review
-  *link:* https://google.github.io/eng-practices/review/reviewer/
-  *post-link:* https://news.ycombinator.com/item?id=20890682
+  - *link:* https://google.github.io/eng-practices/review/reviewer/
+  - *post-link:* https://news.ycombinator.com/item?id=20890682
 
 - Firefox has lots of room to improve if it wants to beat Chrome
-  *link:* https://www.snazz.xyz/programming/2019/08/30/firefox.html
-  *post-link:* https://news.ycombinator.com/item?id=20850135
+  - *link:* https://www.snazz.xyz/programming/2019/08/30/firefox.html
+  - *post-link:* https://news.ycombinator.com/item?id=20850135
 
 - Ask HN: How Do You Read?
-  *link:* https://news.ycombinator.com/item?id=20847508
-  *post-link:* https://news.ycombinator.com/item?id=20847508
+  - *link:* https://news.ycombinator.com/item?id=20847508
+  - *post-link:* https://news.ycombinator.com/item?id=20847508
 
 - Software Architecture Guide
-  *link:* https://martinfowler.com/architecture/
-  *post-link:* https://news.ycombinator.com/item?id=20786448
+  - *link:* https://martinfowler.com/architecture/
+  - *post-link:* https://news.ycombinator.com/item?id=20786448
 
 - Introducing nushell
-  *link:* http://www.jonathanturner.org/2019/08/introducing-nushell.html
-  *post-link:* https://news.ycombinator.com/item?id=20783006
+  - *link:* http://www.jonathanturner.org/2019/08/introducing-nushell.html
+  - *post-link:* https://news.ycombinator.com/item?id=- 20783006
